@@ -50,17 +50,17 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 ## Debrid Services
 
 ### Supports Torrent + One-Click Hosters
-- [AllDebrid](https://alldebrid.com/) - `€2.99/30d` `€24.99/yr` — torrents, OCH. `30` active magnets, no bandwidth cap, API rate limit `12 req/s`. Free trial: 25GB/7 days. 1 IP at a time (VPN allowed but IP-locked per link).
+- [AllDebrid](https://alldebrid.com/?uid=1kk5i&lang=en) - `€2.99/30d` `€24.99/yr` — torrents, OCH. `30` active magnets, no bandwidth cap, API rate limit `12 req/s`. Free trial: 25GB/7 days. 1 IP at a time (VPN allowed but IP-locked per link).
 - [Cocoleech](https://cocoleech.com/) - `$9.99/30d` `$24.99/3mo` `$59.99/yr` — torrents, Usenet, OCH, includes VPN. Per-hoster daily quotas (varies by host). Torrents currently disabled. Accepts crypto, PayPal, Paysafecard.
 - [DASAN](https://dasan.co) - pay-per-GB `$0.025-0.085/GB` from `$2.99` — torrents, Usenet, OCH (40+ hosts), 600 video sites. `100GB` max file, `10-day` file retention. Servers in DE/FI.
-- [Debrid-Link](https://debrid-link.com/) - `€3/15d` `€25/300d` — torrents, OCH. `400GB/day` bandwidth, `2TB` max torrent size, 1 IP at a time.
+- [Debrid-Link](https://debrid-link.com/id/diG1t) - `€3/15d` `€25/300d` — torrents, OCH. `400GB/day` bandwidth, `2TB` max torrent size, 1 IP at a time.
 - ~~[Furk.net](https://furk.net)~~ - `€9.90-€14.90/mo` — torrents, Usenet, streaming. Operating since 2009. Built-in player. ⚠️ Site unreachable (May 2026).
 - [High-Way](https://high-way.me/) - from `€5.99` (Free/Premium/Unlimited/Volume tiers) — torrents (added May 2026), Usenet, OCH, TV recording. `75GB` max torrent, `50` concurrent torrent slots, `25` Usenet slots. German-language community (11,520 members).
 - [Mega-Debrid](https://mega-debrid.eu/) - `~€4/mo` — torrents, OCH (135+ hosts). `20` simultaneous downloads, `500GB` max torrent (auto-splits at 200GB), `100` downloads/day. Good RapidGator support.
 - [Offcloud](https://offcloud.com/) - `$9.99/mo` `$54.99/yr` — torrents, OCH. `3` IPs max, `10` devices. ⚠️ Lifetime plans cancelled (Jan 2026); existing lifetime accounts converted to annual. Premium unlimited bandwidth.
 - [Premiumize](https://www.premiumize.me/) - `€9.99/mo` `€69.99/yr` — torrents, OCH. Point-based system (`1000` pts, `30/day` fair use), `1TB` cloud storage. Multi-IP allowed.
 - [put.io](https://put.io/) - `$9.99/mo` `$99/yr` — torrents, OCH. `10/50/100` active transfers, `100GB/1TB/10TB` storage, `1/3TB/mo` download caps then throttled to `1.5MB/s`.
-- [Real-Debrid](https://real-debrid.com/) - `€3/15d` `€16/180d` — torrents, OCH. `25` active torrents, `2TB` max torrent size, 1 IP at a time (strict). No bandwidth cap.
+- [Real-Debrid](http://real-debrid.com/?id=20474106) - `€3/15d` `€16/180d` — torrents, OCH. `25` active torrents, `2TB` max torrent size, 1 IP at a time (strict). No bandwidth cap.
 - [RPNet](https://premium.rpnet.biz) - `$7.50/mo` — OCH (55+ hosts), torrent, VPN. `500GB` storage, point-based traffic (~1000 pts). Per-host daily limits (e.g., Rapidgator 50GB/day). Torrents don't cost points. Acquired by Premiumize 2022.
 - [TransferCloud](https://transfercloud.io) - free 1.5GB / `$3.99-$12.79/mo` — torrents, Usenet, OCH, video. `1.5GB-500GB` max file by tier, `1-10` concurrent transfers. Transfers to GDrive/Dropbox/OneDrive.
 - [Boxbit.app](https://boxbit.app) - from `€9.99/mo` — torrents, OCH (35+ hosts incl. K2S). No published limits (opaque). Good for hosters RD doesn't cover.
@@ -81,7 +81,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 </details>
 
 ### Supports Torrent + Usenet
-- [TorBox](https://torbox.app/) - **free tier available** `$3/mo` `$33/yr` — torrents, Usenet (Pro). `1/3/5/10` active torrents by tier, `10GB/200GB/500GB/1TB` max torrent size. No IP restrictions. Has a [dynamic abuse system](https://support.torbox.app/en/articles/10336778-the-torbox-abuse-system) — usage above the 99th percentile triggers warnings (3 warnings then ban). Abuse floors: Free `5TB/mo`, Essential `10TB/mo`, Standard `20TB/mo`, Pro `30TB/mo`. Cached transfers don't count.
+- [TorBox](https://torbox.app/subscription?referral=74ffa560-7381-4a18-adb1-cef97378c670) - **free tier available** `$3/mo` `$33/yr` — torrents, Usenet (Pro). `1/3/5/10` active torrents by tier, `10GB/200GB/500GB/1TB` max torrent size. No IP restrictions. Has a [dynamic abuse system](https://support.torbox.app/en/articles/10336778-the-torbox-abuse-system) — usage above the 99th percentile triggers warnings (3 warnings then ban). Abuse floors: Free `5TB/mo`, Essential `10TB/mo`, Standard `20TB/mo`, Pro `30TB/mo`. Cached transfers don't count.
 
 ### Supports Torrent Only
 - [PikPak](https://mypikpak.com/) - `$6.3/mo` `$63.99/yr` — torrents only. `10TB` storage, `40TB/mo` cloud download, `4TB/mo` downstream bandwidth. Xunlei's overseas rebrand.
